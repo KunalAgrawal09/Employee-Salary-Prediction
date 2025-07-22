@@ -16,15 +16,15 @@ We checked for missing values in the dataset and removed rows with missing data,
 *A Bar plot depicting the highest paying job titles versus the mean salary.*
 
 ### Distribution of Continuous Variables
-![Age Distribution](images/Distribution.png)
+![Age Distribution](Distribution.png)
 *This histogram shows the distribution of continuous variables in the dataset.*
 
 ### Distribution of Education and Gender
-![Salary vs. Education](images/ed&gender_distribution.png)
+![Salary vs. Education](ed&gender_distribution.png)
 *A plot displaying the Education Level and Gender.*
 
 ### Correlation Heatmap
-![Correlation Heatmap](images/Heatmap.png)
+![Correlation Heatmap](Heatmap.png)
 *A heatmap illustrating the correlation between different features.*
 
 ## Model Building and Evaluation
@@ -36,7 +36,7 @@ We explored various machine learning algorithms, including Linear Regression, De
 We evaluated the models using metrics such as Mean Squared Error (MSE) and R-squared (R2) to measure prediction accuracy. The best-performing model achieved an MSE of X and an R2 score of Y on the test set.
 
 ### Feature Importance
-![Feature Importance](images/feature_importance.png)
+![Feature Importance](feature_importance.png)
 *A bar chart depicting the importance of different features in predicting salary.*
 
 ## Conclusion
